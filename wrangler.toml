@@ -1,4 +1,6 @@
 name = "wyzie-proxy"
 main = "./.output/server/index.mjs"
+account_id = "ea25cef0a1c983bb46fd6f7f3abc9b80" # workers.dev
+type = "webpack"
 workers_dev = true
 compatibility_date = "2022-09-10"
